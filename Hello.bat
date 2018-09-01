@@ -1,3 +1,5 @@
+#/sbin/bash
+
 echo "Testing"
 
 chromium
